@@ -11,19 +11,19 @@
 </p>
 
 - 🔭 I’m currently working on [bookr](https://github.com/poorvi-vaish/bookr) -
-🌱 I’m currently learning **Typescript and Cloud Computing** - 🤝 I’m looking
-for help with **CoviHelp-client** - 💬 Ask me about **react, javascript, C++,
-python** - 📫 How to reach me **poorvivaish11010@gmail.com** - 📄 Know about my
-experiences
-[https://linkedin.com/in/poorvi-vaish](https://linkedin.com/in/poorvi-vaish)
+- 🌱 I’m currently learning **Typescript and Cloud Computing**
+- 🤝 I’m looking for help with **CoviHelp-client** 
+- 💬 Ask me about **react, javascript, C++, python** 
+- 📫 How to reach me **poorvivaish11010@gmail.com** 
+- 📄 Know about my experiences at [LinkedIn](https://linkedin.com/in/poorvi-vaish)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/poorvi-vaish" target="blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg"
-      alt="poorvi-vaish"
+      src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620237979~hmac=70c8463411d31ee19525b3a85766ab49"
+      alt=""
       height="30"
       width="40"
     />
