@@ -10,7 +10,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on [RCE](https://github.com/poorvi-vaish/rce-frontend) -
+- 🔭 I’m currently working on [RCE](https://github.com/poorvi-vaish/rce-frontend) 
 - 🌱 I’m currently learning **Typescript and Cloud Computing**
 - 🤝 I’m looking for help with **CoviHelp-client** 
 - 💬 Ask me about **React, JavaScript, C++, Python** 
