@@ -28,6 +28,15 @@
       width="40"
     />
   </a>
+ <a href="https://https://www.instagram.com/_poorv.i_/" target="blank">
+    <img
+      align="center"
+      src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1620301709~hmac=61377c9f6cdfb41c777eadd9c044337d"
+      alt=""
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
