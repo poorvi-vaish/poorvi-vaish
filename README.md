@@ -10,10 +10,10 @@
   />
 </p>
 
-- 🔭 I’m currently working on [bookr](https://github.com/poorvi-vaish/bookr) -
+- 🔭 I’m currently working on [RCE](https://github.com/poorvi-vaish/rce-frontend) -
 - 🌱 I’m currently learning **Typescript and Cloud Computing**
 - 🤝 I’m looking for help with **CoviHelp-client** 
-- 💬 Ask me about **react, javascript, C++, python** 
+- 💬 Ask me about **React, JavaScript, C++, Python** 
 - 📫 How to reach me **poorvivaish11010@gmail.com** 
 - 📄 Know about my experiences at [LinkedIn](https://linkedin.com/in/poorvi-vaish)
 
