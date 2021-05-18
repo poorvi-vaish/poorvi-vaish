@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poorvi Vaish</h1>
 <h3 align="center">
-  A passionate learner of new technologies and full Stack Developer from India.
+  A passionate learner of new technologies and full Stack Developer @IIIT Gwalior.
 </h3>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=poorvi-vaish&label=Profile%20views&color=0e75b6&style=flat"
-    alt="poorvi-vaish"
-  />
-</p>
 
 - 🔭 I’m currently working on [RCE](https://github.com/poorvi-vaish/rce-frontend) 
 - 🌱 I’m currently learning **Typescript and Cloud Computing**
