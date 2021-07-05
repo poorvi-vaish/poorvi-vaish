@@ -15,18 +15,18 @@
   <a href="https://linkedin.com/in/poorvi-vaish" target="blank">
     <img
       align="center"
-      src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620237979~hmac=70c8463411d31ee19525b3a85766ab49"
-      alt=""
-      height="30"
+      src="https://img.icons8.com/plasticine/100/000000/linkedin.png"
+      alt="LinkedIn.png"
+      height="40"
       width="40"
     />
   </a>
  <a href="https://https://www.instagram.com/_poorv.i_/" target="blank">
     <img
       align="center"
-      src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1620301709~hmac=61377c9f6cdfb41c777eadd9c044337d"
-      alt=""
-      height="30"
+      src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"
+      alt="Instagram.png"
+      height="40"
       width="40"
     />
   </a>
