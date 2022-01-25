@@ -3,9 +3,9 @@
   A passionate learner of new technologies and full Stack Developer @IIIT Gwalior.
 </h3>
 
-- 🔭 I’m currently working on [RCE](https://github.com/poorvi-vaish/rce-frontend) 
-- 🌱 I’m currently learning **Typescript and Cloud Computing**
-- 🤝 I’m looking for help with **CoviHelp-client** 
+- 🔭 I’m currently working on [SplitIt](https://github.com/smochan/splitit-backend) 
+- 🌱 I’m currently learning **Typescript and Next.js**
+- 🤝 I’m looking for help with **RCE** 
 - 💬 Ask me about **React, JavaScript, C++, Python** 
 - 📫 How to reach me **poorvivaish11010@gmail.com** 
 - 📄 Know about my experiences at [LinkedIn](https://linkedin.com/in/poorvi-vaish)
