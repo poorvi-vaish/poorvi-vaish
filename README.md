@@ -12,7 +12,7 @@
 - 📄 Know about my experiences at [LinkedIn](https://linkedin.com/in/poorvi-vaish)
 
 
-<a align="right" href="https://app.daily.dev/poorvi_vaish"><img src="https://api.daily.dev/devcards/5aad515f19014402a314502bcfdd1506.png?r=n6e" width="400" alt="Poorvi Vaish's Dev Card"/></a>
+<a  href="https://app.daily.dev/poorvi_vaish"><img align="right" src="https://api.daily.dev/devcards/5aad515f19014402a314502bcfdd1506.png?r=8pt" width="300" alt="Poorvi Vaish's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/poorvi-vaish" target="blank">
