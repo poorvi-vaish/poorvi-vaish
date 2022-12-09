@@ -5,8 +5,7 @@
 </h3>
 
 - 🔭 I’m currently working on [SplitIt](https://github.com/smochan/splitit-backend) 
-- 🌱 I’m currently learning **Typescript and Next.js**
-- 🤝 I’m looking for help with **RCE** 
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💬 Ask me about **React, JavaScript, C++, Python** 
 - 📫 How to reach me **poorvivaish11010@gmail.com** 
 - 📄 Know about my experiences at [LinkedIn](https://linkedin.com/in/poorvi-vaish)
